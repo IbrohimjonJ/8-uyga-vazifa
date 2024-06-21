@@ -1,0 +1,61 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.images{
+    width: 440px;
+height: 200px;
+   
+}
+.details{
+    color: black;
+    margin-top: 20px;
+    width: 320px;
+    height: 40px;
+    background: #e4e2e2;
+}
+.color2{
+    position: absolute;
+    margin-left: -10px;
+}
+.color{
+    margin-top: 40px;
+    margin-left: -250px;
+    font-size: large;
+    color: rgb(175, 173, 173);
+}
+.bg{
+    width: 390px;
+height: 300px;
+background: #bbbbbb;
+}
+.price{
+    margin-left: 260px;
+    font-size: large;
+    position: absolute;
+    margin-top: -80px;
+    color: white;
+}
+.img{
+    height: 400px;
+    width: 600px;
+}
+.card1{
+    border-radius: 13px;
+    width: 860px;
+    height: 530px;
+    background: #eeecec;   
+}
+.price1{
+    font-size: 35px;
+    position: absolute;
+    margin-top: 50px;
+}
+.btn{
+     margin-top: 50px;
+    width: 300px;
+}
+.m{
+   
+    margin-top: 70px;
+}
